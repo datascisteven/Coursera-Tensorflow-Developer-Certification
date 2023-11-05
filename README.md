@@ -9,28 +9,28 @@
 ---
 
 ## Courses and Certificates
-  - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/datascisteven/Coursera-Tensorflow-Developer-Certificate/tree/master/C1%20-%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning) <details>
+  - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/datascisteven/Coursera-Tensorflow-Developer-Certificate/tree/main/C1%20-%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning) <details>
     <summary>Show Certificate</summary><p>
 
       ![](/images/C1_CERTIFICATE_LANDING_PAGE~4RG3A5N86YG6.jpeg)
 
   </p></details>
 
-  - [Convolutional Neural Networks in TensorFlow](https://github.com/datascisteven/Coursera-Tensorflow-Developer-Certificate/tree/master/C2%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow) <details>
+  - [Convolutional Neural Networks in TensorFlow](https://github.com/datascisteven/Coursera-Tensorflow-Developer-Certificate/tree/main/C2%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow) <details>
     <summary>Show Certificate</summary><p>
 
       ![](/images/C2_CERTIFICATE_LANDING_PAGE~GSERKCRKLS9P.jpeg)
 
   </p></details>
 
-  - [Natural Language Processing in TensorFlow](https://github.com/datascisteven/Coursera-Tensorflow-Developer-Certificate/tree/master/C3%20-%20Natural%20Language%20Processing%20in%20TensorFlow) <details>
+  - [Natural Language Processing in TensorFlow](https://github.com/datascisteven/Coursera-Tensorflow-Developer-Certificate/tree/main/C3%20-%20Natural%20Language%20Processing%20in%20TensorFlow) <details>
     <summary>Show Certificate</summary><p>
 
       ![](/images/C3_CERTIFICATE_LANDING_PAGE~63M7EDZTYE6J.jpeg)
 
   </p></details>
 
-  - [Sequences, Time Series and Prediction](https://github.com/datascisteven/Coursera-Tensorflow-Developer-Certificate/tree/master/C4-%20-%20Sequences%2C%20Time%20Serirs%20and%20Prediction) <details>
+  - [Sequences, Time Series and Prediction](https://github.com/datascisteven/Coursera-Tensorflow-Developer-Certificate/tree/main/C4-%20-%20Sequences%2C%20Time%20Serirs%20and%20Prediction) <details>
     <summary>Show Certificate</summary><p>
 
       ![](/images/C4_CERTIFICATE_LANDING_PAGE~84ZAQKM982PQ.jpeg)
