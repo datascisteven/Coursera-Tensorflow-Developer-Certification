@@ -9,14 +9,14 @@
 ---
 
 ## Courses and Certificates
-  - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/datascisteven/Coursera-Tensorflow-Developer-Certificate/tree/main/C1%20-%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning) <details>
+  - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/datascisteven/Coursera-Tensorflow-Developer-Certification/tree/main/C1%20-%20Introduction%20to%20Tensorflow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning) <details>
     <summary>Show Certificate</summary><p>
 
       ![](/images/C1_CERTIFICATE_LANDING_PAGE~4RG3A5N86YG6.jpeg)
 
   </p></details>
 
-  - [Convolutional Neural Networks in TensorFlow](https://github.com/datascisteven/Coursera-Tensorflow-Developer-Certificate/tree/main/C2%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow) <details>
+  - [Convolutional Neural Networks in TensorFlow](https://github.com/datascisteven/Coursera-Tensorflow-Developer-Certification/tree/main/C2%20-%20Convolutional%20Neural%20Networks%20in%20Tensorflow) <details>
     <summary>Show Certificate</summary><p>
 
       ![](/images/C2_CERTIFICATE_LANDING_PAGE~GSERKCRKLS9P.jpeg)
